@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.mattcallanan.pmderrornavigationintellijplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mattcallanan.pmderrornavigationintellijplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
